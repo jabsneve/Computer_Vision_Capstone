@@ -6,4 +6,4 @@ Computer vision is used in many facets of today’s world from simple tasks we t
 
 # Data
 
-I will be using the Street View Housing Numbers (SVHN) Dataset. This dataset is a collection of over 600,000 images of house numbers collected from Google Street View images and is popular due to the numbers being in natural sceneries. The dataset is available in two formats: original images with character bounding boxes and cropped digits that have been resized to a fixed resolution of 32 x 32 pixels. I will begin with the cropped dataset and plan to progress to the dataset of original images.
+I will be using the Street View Housing Numbers (SVHN) Dataset. This dataset is a collection of over 600,000 images of house numbers collected from Google Street View images and is popular for training models due to the numbers being in natural sceneries. The dataset is available in two formats: original images with character bounding boxes and cropped digits that have been resized to a fixed resolution of 32 x 32 pixels. My first, single digit, model utilizes the cropped images and the second, multi digit, model utilizes the original images.
